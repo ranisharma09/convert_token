@@ -1,6 +1,9 @@
 # convert_token
 
 
+
+rm -rf convert_token
+
 git clone https://github.com/ranisharma09/convert_token      
 
 
