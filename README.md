@@ -14,7 +14,7 @@ cd convert_token
 
 
 
-python Generate_token.py
+python TOKEN_MAKE.py
 
 
 
